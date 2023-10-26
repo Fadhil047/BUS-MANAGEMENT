@@ -13,7 +13,7 @@ struct Bus {
     float fare;
 };
 
-// Define a structure to store passenger information
+// Define a structure to store passenger informationnn
 struct Passenger {
     char name[50];
     int age;
