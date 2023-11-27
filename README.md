@@ -45,7 +45,7 @@ Welcome to BUS-MANAGEMENT! This is a simple console-based Bus Management System 
    code .
 
 ## Usage
---Run the terminal and a terminal will be used in bookings
+- Run the terminal and a terminal will be used in bookings
 
 ## Contributions
 
