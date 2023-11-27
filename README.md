@@ -10,6 +10,8 @@ A simple Bus Management System written in C.
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
+  - [Usage](#usage)
+  - [Contributions](#contributions)
 
 ## Introduction
 
@@ -24,7 +26,7 @@ Welcome to BUS-MANAGEMENT! This is a simple console-based Bus Management System 
 ## Prerequisites
 
 - C Compiler (e.g., GCC)
-- [Optional] Code Editor (e.g., Visual Studio Code, Sublime Text)
+- Code Editor (e.g., Visual Studio Code, Sublime Text)
 
 ## Getting Started
 
@@ -32,3 +34,27 @@ Welcome to BUS-MANAGEMENT! This is a simple console-based Bus Management System 
 
    ```bash
    git clone git@github.com:Fadhil047/BUS-MANAGEMENT.git
+
+
+2. Navigate to the project directory:
+   ```bash
+   cd BUS-MANAGEMENT
+
+3. Compile the code in VS code
+   ```bash
+   code .
+
+## Usage
+--Run the terminal and a terminal will be used in bookings
+
+## Contributions
+
+Contributions are welcome! If you'd like to contribute to BUS-MANAGEMENT, please follow these steps:
+
+ - Fork the repository.
+ - Create a new branch for your feature or bug fix.
+ - Make your changes.
+ - Commit your changes with descriptive commit messages.
+ - Push your branch to your fork.
+ - Submit a pull request.
+
